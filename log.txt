@@ -1,1 +1,2 @@
 i hope you are enjoing this git course
+now .git ignore, this wont be tracked
